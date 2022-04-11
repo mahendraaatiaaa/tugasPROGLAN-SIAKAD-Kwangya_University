@@ -1,2 +1,2 @@
 # tugasPROGLAN-SIAKAD-Kwangya_University
-Tugas Pemorgraman Lanjutan SIAKAD
+Tugas Pemrograman Lanjutan SIAKAD
